@@ -1,0 +1,14 @@
+Cassini:
+- verifier le format des commandes
+- fonctions d'envoie - reception des pipes
+- struct string_utils et commandline pour la commande d'ajout de tache + des fonctions (création de commandline, conversion char * en char* (en hexa) etc...)
+
+Plus tard:
+- préparation et envoie des char * (contenant les requetes) aux fonctions qui gèrent les pipes depuis cassisi
+- gestion des erreurs
+
+
+
+
+saturnd:
+A venir
